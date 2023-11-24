@@ -37,3 +37,6 @@ Secondly, planning ahead is essential. When starting a new project or working on
 
 # 2023-11-23
 - "Keep it simple, stupid!"
+
+# 2023-11-24
+- "Keep it simple, stupid!"
