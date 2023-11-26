@@ -45,3 +45,10 @@ Secondly, planning ahead is essential. When starting a new project or working on
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your tasks in this way, you can focus on one thing at a time and avoid feeling overwhelmed.
 
 Next, use tools and resources to help manage your workflow. For example, using version control systems like Git can help keep your code organized and easy to track changes. Additionally, utilizing task management tools like Trello or Asana can keep you on track with deadlines and milestones. Finally, don't be afraid to ask for help or to reach out to the community when you run into problems. There are many resources available, such as Stack Overflow, to assist you in solving issues and learning new skills.
+
+# 2023-11-26
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online communities and forums. By constantly updating your knowledge and skills, you will become a valuable asset to any team or project.
+
+Another piece of wisdom in programming is the importance of writing clean, well-organized,and modular code.This not only makes your code easier to understand and maintain, but also reduces the likelihood of errors and bugs. To achieve this, follow best practices such as using version control systems (like Git), writing comments and documentation, organizing code into logical functions and classes, using appropriate data structures, following coding conventions, avoiding global variables, minimizing dependencies, etc. 
+ 此外，编程智慧的另一个方面是学会与团队合作。在软件开发中，团队合作至关重要，因为一个项目通常需要多人共同完成。学会与他人沟通，分享想法，解决问题，以及尊重他人的观点和建议，这将有助于提高团队的效率和生产力。同时，学会管理自己的时间和任务，以便在团队中更好地发挥作用。
+ 最后，保持耐心和毅力。编程可能会很具挑战性，特别是在解决复杂问题或学习新技能时。保持积极的心态，相信自己有能力克服困难，并努力提高自己的技能。通过不断实践和学习，你将逐渐成为一名成功的程序员。
