@@ -74,3 +74,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2023-11-30
 - "Today's programming wisdom is to focus on writing clean, maintainable, and reusable code. It's not just about solving the problem at hand, but also about ensuring that your code can be easily understood and modified in the future. This means using clear and descriptive variable names, commenting your code thoroughly, and organizing your code into modular, well-structured components. By prioritizing readability and maintainability, you'll not only make your own life easier, but also make it easier for others to work with your code and build upon your work."
+
+# 2023-12-01
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+Optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potentially worse performance overall. It's better to write clear, simple code first and optimize only where necessary, based on profiling and measurement.
