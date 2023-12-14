@@ -135,3 +135,6 @@ It means that trying to optimize code too early in the development process can l
 - Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This will not only make you a more valuable asset to your team but also help you stay ahead of the competition.
 
 To stay current, make time to attend workshops, read blogs, and follow industry leaders on social media. Additionally, consider attending conferences and meetings to network with other professionals and learn from their experiences. By constantly learning, you' ll be able to adapt to the ever-changing landscape of technology and remain a valuable resource to those around you.
+
+# 2023-12-14
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
