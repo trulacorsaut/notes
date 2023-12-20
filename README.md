@@ -163,3 +163,8 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 3. Join online communities: Stack Overflow, GitHub, Reddit, etc. are all great places to ask questions, share knowledge, learn from others, 4. Learn a new programming language or framework every year: This will help you stay versatile and adaptable to different projects.  
 5. Read books and blog posts: There're plenty of resources available online to help improve your knowledge and skills.   
 6. Practice, practice, practise: Coding is a skill that requires constant practice to master. Keep challenging yourself with new projects and problems.
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it is necessary can lead to unnecessary complexity, bugs, and wasted time. It's important to first write code that is correct and understandable, and then optimize only if profiling shows that specific parts of the code are causing performance issues.
