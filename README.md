@@ -192,3 +192,9 @@ Lastly, embrace the power of testing. Write automated tests for your code to ens
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bug fixes. Use a task management tool, such as Trello or Jira, to keep track of tasks and their priorities.
+
+# 2023-12-27
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is essential to stay up-to-date with the latest developments and techniques in the field. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the topics that interest you.
+
+Another piece of wisdom for programmers is never to underestimate the power of simple solutions. Often, the simplest solutions are the most efficient and maintainable. When faced with a complex problem, try to break it down into smaller, more manageable tasks and focus on solving each task individually. By doing this, you will be able to identify the root cause of a problem and come up with an effective solution. 
+ - 来自NLP
