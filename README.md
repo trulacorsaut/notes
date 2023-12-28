@@ -198,3 +198,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 Another piece of wisdom for programmers is never to underestimate the power of simple solutions. Often, the simplest solutions are the most efficient and maintainable. When faced with a complex problem, try to break it down into smaller, more manageable tasks and focus on solving each task individually. By doing this, you will be able to identify the root cause of a problem and come up with an effective solution. 
  - 来自NLP
+
+# 2023-12-28
+- "Keep it simple, stupid!"
