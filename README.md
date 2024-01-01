@@ -228,3 +228,6 @@ In short, "Keep it simple, stupid" (KISS principle) and "You aren't gonna need i
 4. Attend workshops and conferences: Participate in local or online workshops, seminars,and conferences to learn from industry experts and network with other professionals in your field. These events can provide valuable insights and connections that can boost your career.   
 5. Commit to continuous learning: Set aside time each week or month to focus on personal and professional development. Read books, blogs, articles, watch tutorials, participate in online courses, etc. to grow your knowledge and skills.    
 6. Seek mentorship: Reach out to experienced programmers or industry professionals to gain guidance and advice on your journey as an aspiring programmer. Their insights can be invaluable in helping you navigate the industry and achieve your professional goals.
+
+# 2024-01-01
+- "Keep it simple, stupid!"
