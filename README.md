@@ -238,3 +238,6 @@ In short, "Keep it simple, stupid" (KISS principle) and "You aren't gonna need i
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use task management tools, such as Trello or Asana, to help keep track of your tasks and priorities. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the steps you need to take and the resources you will need. Creating a detailed plan will ensure you have everything you require to complete the task successfully and avoid any last-minute surprises.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and ease of maintenance. Follow best practices, like using version control systems (like Git), organizing your code into logical folders, following coding conventions, commenting your codes, etc. These practices will not only make your life easier but also help in maintaining and contributing to open source projects.
+
+# 2024-01-03
+- "Keep it simple, stupid!"
