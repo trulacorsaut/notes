@@ -316,3 +316,11 @@ In fewer than 200 words, this quote by computer scientist Donald Knuth emphasize
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary, after profiling and identifying bottlenecks." 
 
 In more detail, this quote emphasizes that striving to write highly optimized code from the outset can often lead to complex, hard-to-understand solutions, which in turn can introduce bugs and hinder future development. It's better to ensure your code is correct, clear, and structured well initially, then optimize specific parts based on real performance metrics.
+
+# 2024-01-20
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, use time management techniques to your advantage. Block out time in the day for specific tasks so that your schedule is structured and you have time to focus. Avoid multitasking as much as possible, as it can be distracting and lead to poor results. Instead, focus all of your attention on one task at a time, giving it your full attention. 
+ 使用编程语言进行编程时，始终使用最新版本的软件和工具。这将确保您能够充分利用新功能和改进，从而提高您的编程技能。
+   
+Finally, stay organised in all aspects of programming. Use version control systems like Git to keep track of and manage your code. Organize your files and projects neatly, so you always know where to find what you need. Document your work well, both for your own reference and for others who may need to understand your codes.
