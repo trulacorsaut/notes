@@ -324,3 +324,11 @@ Second, use time management techniques to your advantage. Block out time in the 
  使用编程语言进行编程时，始终使用最新版本的软件和工具。这将确保您能够充分利用新功能和改进，从而提高您的编程技能。
    
 Finally, stay organised in all aspects of programming. Use version control systems like Git to keep track of and manage your code. Organize your files and projects neatly, so you always know where to find what you need. Document your work well, both for your own reference and for others who may need to understand your codes.
+
+# 2024-01-21
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt and thrive in an ever-changing technology landscape. 
+ - 学习新技能。随着技术的发展，需要不断更新自己的技能，如学习新的编程语言、框架和工具。
+- 多实践。编程是一项实践性很强的技能, 通过不断地练习和项目实践，可以加深对编程的理解和掌握。 。-
+保持好奇心。对新技术和解决方案保持好奇，不断探索和尝试，可以帮助你在编程领域取得更好的成绩。
